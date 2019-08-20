@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1566337300 source:/home/aerojasm/Documents/Datos2.2019.2/TE1_S2.2019/TE1_Server/main.cpp
+	<iostream>
+
+1566339386 source:/home/aerojasm/Documents/Datos2.2019.2/TE1_S2.2019/TE1_Server/src/ArbolBinario.cpp
+	"ArbolBinario.h"
+
+1566339365 /home/aerojasm/Documents/Datos2.2019.2/TE1_S2.2019/TE1_Server/include/ArbolBinario.h
+	<iostream>
+	"Nodo.h"
+
+1566339468 /home/aerojasm/Documents/Datos2.2019.2/TE1_S2.2019/TE1_Server/include/Nodo.h
+
+1566338633 source:/home/aerojasm/Documents/Datos2.2019.2/TE1_S2.2019/TE1_Server/src/ListaSimple.cpp
+	"ListaSimple.h"
+
+1566338633 /home/aerojasm/Documents/Datos2.2019.2/TE1_S2.2019/TE1_Server/include/ListaSimple.h
+	<iostream>
+	"Nodo.h"
+
+1566339468 source:/home/aerojasm/Documents/Datos2.2019.2/TE1_S2.2019/TE1_Server/src/Nodo.cpp
+	"Nodo.h"
+
